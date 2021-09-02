@@ -9,7 +9,7 @@ Moreover, I also have an interest in graphic design. Sometimes I do design with 
 
 ## Current job
 Currently working in Software Engineering Division as a **Web Developer** at PT Digital Troops Indonesia. Work together as a team to build and develop web 
-applications and/mobile applications with specific programming languages and frameworks. For more completely about my working experience, please check it out
+applications and/mobile applications with specific programming languages and frameworks. For more completely about my working experiences and portfolio, please check it out
 my personal homepage/website: [rivaldy.net](https://rivaldy.net)
 
 ## Currently learning:
