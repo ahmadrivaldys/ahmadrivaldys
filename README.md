@@ -14,7 +14,7 @@ my personal homepage/website: [rivaldy.net](https://rivaldy.net)
 
 ## Currently learning:
 * Full-Stack development using JavaScript environment
-* UI design pattern
+* Atomic design principle
 * Writing
 
 ## How to reach me:
