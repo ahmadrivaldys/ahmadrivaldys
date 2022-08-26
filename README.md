@@ -20,6 +20,6 @@ my personal homepage/website: [rivaldy.net](https://rivaldy.net)
 ## How to reach me:
 * Web: [rivaldy.net](https://rivaldy.net)
 * Blog: [rivaldy.net/blog](https://rivaldy.net/blog)
-* E-mail: [me@rivaldy.net](mailto:me@rivaldy.net)
+* E-mail: [hi@rivaldy.net](mailto:hi@rivaldy.net)
 * LinkedIn: [Ahmad Rivaldy Sudrajat](https://linkedin.com/in/ahmad-rivaldy-sudrajat)
 * Instagram: [@ahmadrivaldys](https://instagram.com/ahmadrivaldys)
