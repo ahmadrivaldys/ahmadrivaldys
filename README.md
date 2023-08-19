@@ -9,7 +9,7 @@ Even so, I don't hate back-end things. Sometimes I use back-end technology like 
 ## Current job
 Currently working as a **Full-Stack Developer** at PT Code Development Indonesia. Work together as a team to build and develop web 
 applications with specific programming languages and frameworks. For more completely about my working experiences and portfolio, please check it out
-my personal homepage/website:
+my personal homepage/website: https://rivaldy.net
 
 ## Currently learning:
 * Full-Stack development using JavaScript environment
