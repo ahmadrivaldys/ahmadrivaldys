@@ -20,6 +20,8 @@ Even so, I don't hate back-end things. Sometimes I use back-end technology like 
 <img src="https://github.com/ahmadrivaldys/ahmadrivaldys/assets/76983038/b9939fde-e758-466d-834e-1aafbac51ec3" alt="Node.js" title="Node.js" height="32" />
 &nbsp;&nbsp;
 <img src="https://github.com/ahmadrivaldys/ahmadrivaldys/assets/76983038/ce01e2c5-6095-4093-8c76-9d6ba7510454" alt="Laravel" title="Laravel" height="32" />
+&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/7473cb5a-0fe0-4c19-a07b-d957c39f7e8f" alt="Docker" title="Docker" height="32" />
 
 ## Current Job
 Currently working as a **Full-Stack Developer** at BPJS Ketenagakerjaan. Work together as a team to build and develop web 
