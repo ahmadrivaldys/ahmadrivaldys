@@ -24,6 +24,6 @@ Even so, I don't hate back-end things. Sometimes I use back-end technology like 
 <img src="https://github.com/user-attachments/assets/7473cb5a-0fe0-4c19-a07b-d957c39f7e8f" alt="Docker" title="Docker" height="32" />
 
 ## Current Job
-Currently working as a **Full-Stack Developer** at BPJS Ketenagakerjaan. Work together as a team to build and develop web 
+Currently working as a **Full-Stack Developer**. Work together as a team to build and develop web 
 applications with specific programming languages and frameworks. For more completely about my working experiences and portfolio, please check it out
 my personal homepage/website: https://rivaldy.net
